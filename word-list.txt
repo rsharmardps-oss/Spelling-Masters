@@ -1,0 +1,419 @@
+SPELL MILLIONAIRE - built-in curated word list
+(Live dictionary words are added on top of these while the game runs.)
+
+=== EASY (105 words) ===
+friend | A person you know well and like, who is not usually a relative. | Old English frēond, from a Germanic root meaning "to love".
+school | A place where children go to learn. | From Greek skholē, "leisure", which came to mean a place of learning, via Latin schola.
+people | Human beings considered as a group. | Latin populus ("a nation"), through Old French peuple.
+because | For the reason that. | Middle English bi cause, literally "by cause".
+beautiful | Pleasing to look at; lovely. | Built from "beauty" (Old French biauté, from Latin bellus, "pretty") plus the ending -ful.
+animal | A living creature that can move and feel, such as a dog or a bird. | Latin animal, "a living being", from anima, "breath" or "soul".
+elephant | The largest land animal, with a trunk and long tusks. | Greek elephas, which meant both "ivory" and "elephant".
+orange | A round citrus fruit with a thick skin; also a colour between red and yellow. | From Sanskrit nāraṅga, through Persian, Arabic and Old French. "A norange" became "an orange".
+library | A building or room that holds books for people to read or borrow. | Latin librarium, "bookcase", from liber, "book".
+giraffe | A tall African animal with a very long neck and a spotted coat. | Arabic zarāfa, which entered English through Italian and French.
+rainbow | A curved band of colours seen in the sky when sunlight shines through raindrops. | Old English regnboga: regn ("rain") + boga ("bow" or arch).
+chocolate | A sweet brown food made from roasted cacao seeds. | Nahuatl xocolatl, a bitter drink of the Aztecs, passed on through Spanish.
+yesterday | The day before today. | Old English geostran dæg, "the day before".
+neighbor | Someone who lives next door or very close to you. | Old English nēahgebūr: nēah ("near") + gebūr ("dweller").
+island | A piece of land completely surrounded by water. | Old English īgland. The silent s crept in by confusion with the unrelated word "isle".
+calendar | A chart showing the days, weeks and months of the year. | Latin kalendae, the first day of the Roman month, when debts were due.
+minute | A unit of time equal to sixty seconds. | Latin pars minuta prima, "first small part" of an hour.
+pencil | A thin writing tool with a core of graphite. | Latin penicillus, "little tail", a fine paintbrush.
+umbrella | A folding canopy held over the head to keep off rain. | Italian ombrella, from Latin umbra, "shade".
+breakfast | The first meal of the day. | Literally "break" + "fast": the meal that ends the overnight fast.
+mountain | A very high natural hill with steep sides. | Latin mons, montis ("mount"), through Old French montaigne.
+kitchen | A room where food is cooked. | Old English cycene, from Latin coquina, from coquere, "to cook".
+garden | A piece of ground where flowers, fruit or vegetables are grown. | Old North French gardin, from a Germanic root related to "yard".
+journey | A trip from one place to another, especially a long one. | Old French journée, "a day's travel or work", from Latin diurnus, "daily".
+favorite | Liked more than all others. | Italian favorito, from Latin favor, "good will".
+tomorrow | The day after today. | Old English to morgenne, "on the morrow".
+bicycle | A two-wheeled vehicle you ride by pedalling. | Latin bi- ("two") + Greek kyklos ("circle" or "wheel").
+dolphin | A clever, friendly sea mammal with a beak-like snout. | Greek delphis, through Latin delphinus.
+penguin | A black-and-white bird that cannot fly but swims very well. | Origin uncertain: possibly Welsh pen gwyn ("white head") or Latin pinguis ("fat").
+volcano | A mountain with an opening from which hot melted rock can erupt. | Italian vulcano, from Vulcan, the Roman god of fire.
+treasure | A hoard of gold, jewels or other valuable things. | Greek thesauros, "storehouse", through Latin thesaurus.
+whisper | To speak very softly, using breath rather than voice. | Old English hwisprian, imitating the soft sound itself.
+thunder | The loud rumbling noise that follows lightning. | Old English thunor, related to the Norse god Thor.
+jungle | A thick, tropical forest. | Hindi jangal, "wasteland" or "forest", from Sanskrit.
+pyramid | A huge stone structure with triangular sides meeting at a point, built in ancient Egypt. | Greek pyramis, possibly borrowed from an Egyptian word.
+magnet | An object that pulls iron towards itself. | Greek magnētis lithos, "stone of Magnesia", a region of Greece.
+sandwich | Two slices of bread with a filling between them. | Named after John Montagu, 4th Earl of Sandwich, who is said to have eaten this way.
+cousin | The child of your aunt or uncle. | Latin consobrinus, "mother's sister's child".
+weather | The day-to-day state of the air outside: rain, sun, wind and so on. | Old English weder, "wind" or "storm".
+enough | As much as is needed. | Old English genōg, from a root meaning "to reach" or "to suffice".
+museum | A building where interesting objects are kept and shown to the public. | Greek mouseion, "seat of the Muses", the goddesses of the arts.
+castle | A large fortified building where kings or lords once lived. | Latin castellum, a small fort.
+vegetable | A plant, such as a carrot or a pea, that is grown to be eaten. | Latin vegetabilis, "able to live and grow", from vegetare, "to enliven".
+wednesday | The day after Tuesday. | Old English Wōdnesdæg, "Woden's day".
+february | The second month of the year. | Latin Februarius, from februa, a Roman festival of purification.
+ocean | A huge body of salt water covering much of the Earth. | Greek ōkeanos, the great river once thought to encircle the world.
+forest | A large area thickly covered with trees. | Old French forest, from Latin forestis silva, "the woods outside" the enclosed lands.
+blanket | A large, warm cover for a bed. | Old French blanchet, "little white thing", from blanc, "white".
+chimney | A passage that carries smoke up and away from a fire. | Greek kaminos, "oven", through Latin caminus and Old French cheminée.
+diamond | An extremely hard, clear gem. | Greek adamas, "unconquerable".
+feather | One of the light, soft parts that cover a bird's body. | Old English fether, from a root meaning "to fly".
+hospital | A place where sick or injured people are treated. | Latin hospitalis, "of a guest", from hospes, "host" or "guest".
+kangaroo | An Australian animal that hops and carries its young in a pouch. | From gangurru, a word in Guugu Yimithirr, an Aboriginal language of Queensland.
+lantern | A case with a light inside, often carried by hand. | Greek lampter, "torch", through Latin lanterna.
+mirror | A shiny surface in which you can see yourself. | Latin mirare, "to wonder at", through Old French mirour.
+necklace | A piece of jewellery worn around the neck. | "Neck" plus "lace", an old word for a cord.
+octopus | A sea creature with eight arms. | Greek oktōpous: oktō ("eight") + pous ("foot").
+parrot | A brightly coloured bird that can copy human speech. | Probably from the French name Perrot, a pet form of Pierre.
+quarter | One of four equal parts. | Latin quartarius, from quartus, "fourth".
+rabbit | A small furry animal with long ears that hops. | Middle English rabet, probably from a Dutch or Walloon word.
+squirrel | A small tree-climbing animal with a bushy tail. | Greek skiouros: skia ("shadow") + oura ("tail").
+telephone | A device for talking to someone far away. | Greek tēle ("far") + phōnē ("voice").
+triangle | A flat shape with three sides. | Latin tri- ("three") + angulus ("corner").
+uniform | Special clothing worn by members of a group, such as a school. | Latin uniformis, "having one form".
+village | A small group of houses in the countryside. | Latin villa, "country house".
+window | An opening in a wall that lets in light and air. | Old Norse vindauga: vindr ("wind") + auga ("eye").
+yellow | The colour of butter or of the sun. | Old English geolu, related to the word for "gold".
+zebra | An African animal like a horse, with black and white stripes. | Italian or Portuguese, perhaps from a Congolese word.
+autumn | The season between summer and winter. | Latin autumnus.
+captain | The leader of a team, or the commander of a ship. | Latin capitaneus, "chief", from caput, "head".
+daughter | A girl or woman in relation to her parents. | Old English dohtor.
+engine | A machine that turns energy into movement. | Latin ingenium, "cleverness".
+flower | The colourful part of a plant that makes seeds. | Latin flos, floris, through Old French flour.
+grandmother | Your mother's or father's mother. | "Grand" (Latin grandis, "great") + "mother".
+holiday | A day or period of rest from work or school. | Old English hāligdæg, "holy day".
+insect | A small six-legged creature such as an ant or a bee. | Latin insectum, "cut into", because of the segmented body.
+jelly | A soft, wobbly, sweet dessert. | Old French gelee, "frozen", from Latin gelare, "to freeze".
+knight | An armoured soldier of the Middle Ages. | Old English cniht, "boy" or "servant".
+lemon | A sour yellow citrus fruit. | Arabic līmūn, through French.
+monkey | A clever, long-tailed animal that climbs trees. | Origin uncertain; possibly from Middle Low German Moneke.
+pirate | A robber who attacks ships at sea. | Greek peirātēs, "one who attacks", from peiran, "to attempt".
+queen | A female ruler, or the wife of a king. | Old English cwēn, "woman" or "wife".
+river | A large stream of water flowing towards the sea. | Latin riparia, "of a bank", through Old French riviere.
+spider | An eight-legged creature that spins webs. | Old English spīthra, from spinnan, "to spin".
+teacher | A person who helps others to learn. | Old English tǣcan, "to show".
+unicorn | A mythical horse with a single horn on its forehead. | Latin unus ("one") + cornu ("horn").
+violin | A stringed instrument played with a bow. | Italian violino, "little viola".
+waterfall | Water tumbling steeply over a high rock or cliff. | A plain compound of "water" and "fall", from Old English.
+exercise | Physical activity done to stay fit. | Latin exercere, "to keep busy".
+yawn | To open your mouth wide and breathe in deeply when sleepy. | Old English ginian, "to gape".
+bakery | A place where bread and cakes are made or sold. | From "bake", Old English bacan.
+compass | An instrument with a needle that points north. | Latin com- ("together") + passus ("step"): to go around, measure.
+diary | A book in which you write about each day. | Latin diarium, from dies, "day".
+energy | The power to be active or to do work. | Greek energeia, "activity".
+fountain | A jet of water shooting up into the air. | Latin fontana, from fons, "spring".
+gorilla | The largest of the apes, living in African forests. | Greek Gorillai, a tribe of hairy women reported by the explorer Hanno.
+helicopter | An aircraft lifted by spinning blades above it. | Greek helix ("spiral") + pteron ("wing").
+igloo | A dome-shaped house made of blocks of snow. | Inuktitut iglu, "house".
+lightning | The flash of light in the sky during a storm. | From the old verb "lighten", to flash, from Old English līhtan.
+mosquito | A small flying insect that bites and sucks blood. | Spanish and Portuguese, "little fly".
+picnic | A meal eaten outdoors. | French pique-nique, of uncertain origin.
+sausage | Minced meat packed into a thin tube-shaped skin. | Latin salsus, "salted", through Old French.
+tortoise | A slow reptile with a hard shell that lives on land. | Probably from Medieval Latin tortuca, perhaps meaning "twisted", after its feet.
+zero | The number 0. | Arabic ṣifr, "empty", through Italian.
+pajamas | Loose trousers and a top worn in bed. | Hindi pāyjāma, from Persian pāy ("leg") + jāma ("garment").
+
+=== CHALLENGING (106 words) ===
+necessary | Needed; something you cannot do without. | Latin necessarius, from ne- ("not") + cedere ("to yield"): "unavoidable".
+accommodate | To provide with a place to stay, or to adjust to suit someone's needs. | Latin accommodare, "to make fit", from ad- + commodus ("suitable").
+embarrass | To make someone feel awkward or ashamed in front of others. | French embarrasser, "to hamper", from Italian imbarrare, "to block with a bar".
+rhythm | A strong, regular pattern of beats or sounds in music or speech. | Greek rhythmos, "measured flow".
+conscience | Your inner sense of what is right and wrong. | Latin conscientia, "knowledge within oneself", from con- + scire ("to know").
+definitely | Without any doubt; certainly. | Latin definitus, "limited" or "bounded", from finis, "end".
+occasionally | Now and then, but not often. | Latin occasio, "opportunity", from occidere, "to fall".
+privilege | A special right or advantage granted to a particular person or group. | Latin privilegium, "a law affecting one person": privus ("private") + lex ("law").
+separate | To keep apart or divide; not joined. | Latin separare: se- ("apart") + parare ("to prepare").
+restaurant | A place where people pay to sit and eat meals. | French restaurer, "to restore"; it first meant a strengthening broth.
+committee | A group chosen to make decisions or carry out a task for a larger body. | Anglo-French, from Latin committere, "to entrust".
+millennium | A period of one thousand years. | Latin mille ("thousand") + annus ("year").
+questionnaire | A written set of questions used to collect information from people. | French, from questionner, "to question".
+vacuum | A space with no air or matter in it. | Latin vacuus, "empty".
+silhouette | The dark outline of a shape seen against a lighter background. | Named after Étienne de Silhouette, an 18th-century French finance minister.
+maintenance | The work of keeping something in good condition. | Old French maintenir, "to hold in the hand", from Latin manu tenere.
+mischievous | Playfully naughty; causing trouble in a harmless way. | Old French meschever, "to come to grief": mes- ("badly") + chever ("to come to an end").
+pneumonia | A serious infection that inflames the lungs. | Greek pneumon, "lung".
+rhinoceros | A huge, thick-skinned animal with one or two horns on its snout. | Greek rhis ("nose") + keras ("horn").
+sergeant | A military or police rank above a corporal. | Latin serviens, "servant", through Old French.
+guarantee | A firm promise that something will be done or will happen as stated. | From the same source as "warrant": an Old French word of Germanic origin.
+hierarchy | A system that ranks people or things one above another. | Greek hierarkhes, "high priest": hieros ("sacred") + arkhein ("to rule").
+bureaucracy | A system of administration run by many officials following strict rules. | French bureau ("desk") + Greek -kratia ("rule").
+camouflage | Colours or patterns that help something blend into its surroundings. | French camoufler, "to disguise", possibly from Italian camuffare.
+entrepreneur | Someone who starts a business and takes on its financial risks. | French entreprendre, "to undertake".
+fluorescent | Glowing brightly when energised by radiation, as some lamps and dyes do. | From Latin fluor ("a flow"), the name given to the mineral fluorspar, plus -escent.
+lieutenant | A military officer ranking below a captain. | French lieu ("place") + tenant ("holding"): one who holds the place of a superior.
+miscellaneous | Made up of many different kinds of things. | Latin miscellaneus, from miscellus, "mixed".
+parallel | Running side by side and always the same distance apart, like railway tracks. | Greek parallēlos, "beside one another".
+perseverance | Steady persistence in spite of difficulty. | Latin perseverare, "to persist", from severus, "strict".
+pharaoh | A ruler of ancient Egypt. | Egyptian per-aa, "great house", the royal palace.
+pronunciation | The way in which a word is spoken. | Latin pronuntiare, "to proclaim".
+recommend | To suggest that something is good or suitable. | Latin re- + commendare, "to entrust".
+schedule | A plan listing when things will happen. | Latin schedula, "a small slip of paper".
+symmetry | Balanced proportions, where one half mirrors the other. | Greek symmetria, "agreement in measure".
+thorough | Complete and careful; leaving nothing out. | Old English thurh ("through"), used as an adjective meaning "going all the way through".
+unanimous | Agreed upon by everyone, without exception. | Latin unanimus, "of one mind".
+yacht | A sailing or motor vessel used for pleasure or racing. | Dutch jacht, short for jachtschip, "chasing ship".
+zucchini | A long green summer squash. | Italian zucchino, a diminutive of zucca, "gourd".
+cemetery | A burial ground. | Greek koimētērion, "sleeping place".
+curriculum | The subjects taught by a school or course. | Latin, "a running" or "a course", from currere, "to run".
+exaggerate | To describe something as larger or greater than it really is. | Latin exaggerare, "to heap up".
+haphazard | Lacking order or plan; done by chance. | Old Norse happ ("luck") + hazard.
+jewellery | Ornaments such as rings and necklaces worn for decoration. | Old French jouel, "jewel", probably from Latin jocus, "play".
+tournament | A competition made up of many matches, ending with one winner. | Old French torneiement, from tourner, "to turn" (the wheeling of knights on horseback).
+acquaintance | Someone you know slightly, but who is not a close friend. | Old French acointance, from Latin accognoscere, "to know fully".
+absence | The state of being away from a place or person. | Latin absentia, from abesse, "to be away".
+argument | A disagreement; or a set of reasons put forward to persuade. | Latin argumentum, "evidence" or "proof".
+business | A commercial organisation, or the activity of buying and selling. | Old English bisignis, "anxiety" or "being busy".
+category | A class or group of things that share certain features. | Greek katēgoria, "accusation" or "assertion".
+colleague | A person you work alongside. | Latin collega, "partner in office".
+colonel | A senior army officer ranking above a major. | Italian colonnello, "column of soldiers"; the pronunciation comes from the Spanish form coronel.
+criticism | Expression of disapproval, or careful judgement of merits and faults. | Greek kritikos, "able to judge".
+desperate | Having lost hope; urgently in need. | Latin desperare, "to lose hope": de- + sperare ("to hope").
+dilemma | A difficult choice between two unwelcome options. | Greek di- ("two") + lēmma ("premise").
+discipline | Training that produces self-control and obedience. | Latin disciplina, "instruction", from discipulus, "pupil".
+dissatisfied | Not content with how things are. | Latin satis ("enough") + facere ("to do"), with the prefix dis-.
+ecstasy | A state of overwhelming joy. | Greek ekstasis, "standing outside oneself".
+efficient | Working well without wasting time or effort. | Latin efficere, "to accomplish".
+environment | The surroundings in which a person, animal or plant lives. | French environner, "to surround".
+equipment | The tools and gear needed for a job or activity. | French équiper, from Old Norse skipa, "to man a ship".
+especially | To a greater degree than usual; particularly. | Latin specialis, from species, "kind" or "appearance".
+existence | The state of being; having life or reality. | Latin existere, "to stand forth".
+fascinate | To attract and hold someone's attention strongly. | Latin fascinare, "to bewitch".
+foreign | Belonging to or from another country. | Latin foras, "outside".
+fulfil | To carry out a promise, or to achieve a goal. | Old English fullfyllan, "to fill up completely".
+gauge | An instrument for measuring; also, to estimate. | Old North French gauge, perhaps of Frankish origin.
+government | The group of people that rules a country. | Greek kybernan, "to steer", through Latin gubernare.
+grammar | The rules for how words are put together in a language. | Greek grammatikē, from gramma, "letter".
+harass | To trouble or torment someone repeatedly. | French harasser, "to set a dog on".
+humorous | Funny; causing laughter. | Latin humor, "fluid", from the four bodily fluids once thought to rule moods.
+independent | Not relying on others for support or control. | in- ("not") + Latin dependere, "to hang from".
+intelligence | The ability to learn, understand and reason. | Latin intelligere, "to understand": inter ("between") + legere ("to choose").
+irresistible | Too tempting or powerful to be refused. | Latin resistere, "to stand back", with a negative prefix.
+leisure | Free time, when you are not working. | Latin licere, "to be allowed".
+license | An official permit to do or own something. | Latin licentia, "freedom".
+luxury | Great comfort; something enjoyable but not necessary. | Latin luxuria, "excess".
+manoeuvre | A skilful movement or a clever plan. | French manœuvre, from Latin manu operari, "to work by hand".
+memento | An object kept as a reminder of a person or place. | Latin, "remember!", the command form of meminisse.
+mortgage | A loan taken out to buy a house. | Old French, "dead pledge": mort ("dead") + gage ("pledge").
+noticeable | Easy to see or observe. | Latin notitia, "knowledge", through French.
+occurrence | Something that happens. | Latin occurrere, "to run to meet".
+omission | Something that has been left out. | Latin omittere, "to let go".
+parliament | An assembly that debates and makes a country's laws. | Old French parler, "to speak".
+persuade | To convince someone to do or believe something. | Latin persuadere: per- ("thoroughly") + suadere ("to advise").
+playwright | A person who writes theatre scripts. | "Play" + "wright", from Old English wyrhta, "maker".
+possession | Something that you own. | Latin possidere, "to occupy".
+precede | To come or go before something else. | Latin praecedere: prae ("before") + cedere ("to go").
+prejudice | An unfair opinion formed without knowing the facts. | Latin praeiudicium, "a judgement made beforehand".
+receipt | A written note proving that money has been paid. | Latin recipere, "to receive".
+reference | A mention of something; or a source of information. | Latin referre, "to bring back".
+relevant | Closely connected to the matter in hand. | Latin relevare, "to raise up".
+reservoir | A large artificial lake used for storing water. | French réserver, "to keep back".
+sacrifice | Giving up something valuable for the sake of something else. | Latin sacer ("holy") + facere ("to make").
+sapphire | A precious blue gemstone. | Greek sappheiros, probably from a Semitic word.
+secretary | A person who handles letters, records and appointments. | Latin secretarius, "confidential officer", from secretum, "secret".
+sincerely | In an honest way, without pretending. | Latin sincerus, "clean" or "pure".
+stationery | Paper, pens, envelopes and other writing supplies. | Medieval Latin stationarius, a bookseller with a fixed shop rather than a travelling one.
+suspicious | Feeling that something is wrong; distrustful. | Latin suspicere, "to look up at".
+temperature | How hot or cold something is. | Latin temperatura, "a mixing in proper proportion".
+threshold | The strip of floor at the bottom of a doorway. | Old English therscold, of uncertain origin.
+tyranny | Cruel and oppressive rule. | Greek tyrannos, "absolute ruler".
+vengeance | Punishment inflicted in return for a wrong. | Old French vengier, from Latin vindicare, "to claim".
+vehicle | A machine, such as a car or bus, for carrying people or goods. | Latin vehere, "to carry".
+weird | Very strange; unusual. | Old English wyrd, "fate".
+withhold | To refuse to give something. | "With" in the old sense of "back" + "hold".
+
+=== HARD (98 words) ===
+bourgeoisie | The middle class, especially as viewed by critics as materialistic. | French, from bourg, "town".
+chrysanthemum | A showy autumn flower with many petals, popular in East Asia. | Greek khrysos ("gold") + anthemon ("flower").
+conscientious | Careful and diligent; wishing to do tasks well and properly. | Latin conscientia, "knowledge within oneself".
+onomatopoeia | A word that imitates the sound it names, such as "buzz" or "splash". | Greek onomatopoiia, "name-making": onoma ("name") + poiein ("to make").
+rendezvous | A meeting at an agreed time and place. | French rendez-vous, literally "present yourselves".
+surveillance | Close observation of a person or place, often in secret. | French surveiller, "to watch over": sur ("over") + veiller ("to watch").
+idiosyncrasy | A peculiar habit or quirk belonging to one person. | Greek idiosynkrasia: idios ("one's own") + syn ("together") + krasis ("mixture").
+liaison | Communication that links two groups; also a secret love affair. | French, from Latin ligare, "to bind".
+ophthalmologist | A doctor who specialises in diseases of the eye. | Greek ophthalmos ("eye") + logia ("study").
+pusillanimous | Showing a lack of courage; timid. | Latin pusillus ("very small") + animus ("mind").
+ubiquitous | Seeming to be everywhere at once. | Latin ubique, "everywhere".
+quixotic | Extremely idealistic and impractical. | From Don Quixote, the hero of Cervantes's novel, who tilted at windmills.
+sycophant | A person who flatters the powerful to gain an advantage. | Greek sykophantēs, literally "fig shower", of disputed meaning; later "slanderer" and then "flatterer".
+mnemonic | A device, such as a rhyme, that helps you remember something. | Greek mnēmōn, "mindful".
+gnocchi | Small Italian dumplings made from potato or flour. | Italian, plural of gnocco, perhaps from nocchio, "a knot in wood".
+ennui | A feeling of listless boredom and dissatisfaction. | French, from Latin in odio, "in hatred".
+kaleidoscope | A tube of mirrors and coloured fragments that makes shifting patterns when turned. | Greek kalos ("beautiful") + eidos ("form") + skopein ("to look").
+mellifluous | Sweet and smooth-sounding; pleasant to hear. | Latin mel ("honey") + fluere ("to flow").
+nostalgia | A sentimental longing for the past. | Greek nostos ("homecoming") + algos ("pain").
+obfuscate | To make something unclear or hard to understand. | Latin obfuscare, from ob- ("over") + fuscus ("dark").
+paraphernalia | Miscellaneous equipment needed for a particular activity. | Greek parapherna, "property a bride keeps apart from her dowry".
+quintessential | Representing the most perfect example of a quality or class. | Latin quinta essentia, "fifth essence", the pure substance thought to make up the heavens.
+sacrilegious | Showing disrespect toward something regarded as holy. | Latin sacrilegus, "temple robber": sacra ("holy things") + legere ("to gather").
+serendipity | Finding something valuable or pleasant by happy accident. | Coined by Horace Walpole in 1754 from "The Three Princes of Serendip", a Persian fairy tale (Serendip is Sri Lanka).
+acquiesce | To accept something reluctantly, without protest. | Latin acquiescere, "to find rest in".
+ambidextrous | Able to use the left and right hands equally well. | Latin ambi ("both") + dexter ("right hand"): "right-handed on both sides".
+cacophony | A harsh, jarring mixture of sounds. | Greek kakos ("bad") + phōnē ("sound").
+diaphanous | Light, delicate and almost see-through, like thin fabric. | Greek diaphanēs, "transparent".
+eleemosynary | Relating to charity or the giving of alms. | Greek eleēmosynē, "pity" or "alms".
+facetious | Treating serious matters with inappropriate humour. | Latin facetia, "a jest".
+gregarious | Fond of company; sociable. | Latin gregarius, from grex, "flock".
+hegemony | Dominance or leadership of one state or group over others. | Greek hēgemonia, from hēgemōn, "leader".
+insouciant | Showing a casual, carefree lack of concern. | French in- ("not") + soucier ("to care").
+juxtaposition | The placing of two things side by side to contrast them. | Latin juxta ("next to") + position.
+lackadaisical | Lacking energy or enthusiasm; careless. | From the old exclamation "lackaday", an alteration of "alack the day".
+minuscule | Extremely small. | Latin minusculus, "rather small"; the spelling was influenced by "minus".
+niche | A specialised segment or position; also a shallow alcove in a wall. | French, from nicher, "to nest".
+pastiche | A work of art that imitates the style of earlier works. | Italian pasticcio, "a pie" or "a pasty": a medley of ingredients.
+raconteur | A skilled teller of anecdotes. | French, from raconter, "to recount".
+vicissitude | A change of circumstances, usually unwelcome; the ups and downs of life. | Latin vicissitudo, "change", from vicis, "turn".
+abstemious | Moderate in eating and drinking. | Latin abstemius, "temperate": abs- ("away from") + temetum ("strong drink").
+anachronism | Something placed in the wrong period of history. | Greek ana- ("back") + khronos ("time").
+antediluvian | Hopelessly old-fashioned; from before the biblical Flood. | Latin ante ("before") + diluvium ("flood").
+apocryphal | Of doubtful authenticity, though widely told as true. | Greek apokryphos, "hidden".
+auspicious | Favourable; promising future success. | Latin auspicium, "divination by watching birds": avis ("bird") + specere ("to look").
+bellwether | Something that indicates future trends. | A castrated ram (a wether) that wore a bell and led the flock.
+camaraderie | Mutual trust and friendship among people who spend time together. | French camarade, from Spanish camarada, "roommate".
+capricious | Given to sudden, unaccountable changes of mood. | Italian capriccio, "a shiver", perhaps linked to capra, "goat".
+catastrophe | A sudden and widespread disaster. | Greek katastrophē, "an overturning".
+chauffeur | A person employed to drive someone else's car. | French, "stoker", from chauffer, "to heat", from early steam-powered cars.
+clandestine | Kept secret, often because illegal. | Latin clandestinus, from clam, "secretly".
+colloquial | Informal; used in everyday conversation. | Latin colloquium, "conversation".
+connoisseur | An expert judge in matters of taste. | French, from Old French connoistre, "to know".
+conundrum | A confusing problem or riddle. | Origin unknown; first appeared as 16th-century slang.
+dichotomy | A division into two sharply opposed parts. | Greek dikha ("in two") + tomia ("cutting").
+doppelganger | A ghostly double of a living person. | German doppel ("double") + Gänger ("goer").
+ebullient | Cheerful and full of energy. | Latin ebullire, "to bubble out".
+egregious | Outstandingly bad; shocking. | Latin egregius, "standing out from the flock": e- + grex ("flock").
+ephemeral | Lasting for a very short time. | Greek ephēmeros, "lasting only a day".
+equivocal | Open to more than one interpretation; ambiguous. | Latin aequus ("equal") + vox ("voice").
+euphemism | A mild word used in place of a harsh or unpleasant one. | Greek eu ("well") + phēmē ("speech").
+exacerbate | To make a problem or feeling worse. | Latin exacerbare, "to irritate", from acerbus, "harsh".
+fastidious | Very attentive to detail; hard to please. | Latin fastidium, "loathing" or "disgust".
+garrulous | Excessively talkative. | Latin garrire, "to chatter".
+idyllic | Extremely peaceful and picturesque. | Greek eidyllion, "little picture", a short poem about country life.
+impeccable | Faultless; without flaw. | Latin in- ("not") + peccare ("to sin").
+indefatigable | Never tiring. | Latin defatigare, "to wear out", with a negative prefix.
+iridescent | Showing luminous colours that seem to shift as you move. | Greek iris, "rainbow".
+labyrinth | A complicated network of paths; a maze. | Greek labyrinthos, the maze built for the Minotaur on Crete.
+lugubrious | Looking or sounding gloomy and mournful. | Latin lugubris, from lugere, "to mourn".
+magnanimous | Generous and forgiving, especially toward a rival. | Latin magnus ("great") + animus ("soul").
+meticulous | Very careful and precise about details. | Latin meticulosus, "fearful", from metus, "fear".
+nefarious | Wicked; criminal. | Latin nefarius, from nefas, "a crime against divine law".
+nonchalant | Calm and unconcerned; casually relaxed. | French nonchaloir, "to be unconcerned".
+obsequious | Obedient and eager to please to an excessive degree. | Latin obsequi, "to comply".
+ostentatious | Designed to impress or attract notice. | Latin ostentare, "to show off".
+panacea | A remedy supposed to cure every ill. | Greek panakeia: pan ("all") + akos ("remedy").
+perfunctory | Done with minimum effort, merely as a duty. | Latin perfungi, "to get through with".
+perspicacious | Having keen mental insight. | Latin perspicax, from perspicere, "to see through".
+philanthropy | The giving of money and effort to good causes. | Greek philos ("loving") + anthrōpos ("human being").
+precocious | Unusually advanced for one's age. | Latin praecox, "ripening early".
+procrastinate | To put off doing something that should be done. | Latin pro ("forward") + crastinus ("of tomorrow").
+protégé | A young person guided and supported by an experienced one. | French, "protected".
+quagmire | A soft, boggy area of land; also a tricky predicament. | From the dialect word "quag" (bog) + "mire".
+recalcitrant | Stubbornly resisting authority or control. | Latin recalcitrare, "to kick back".
+rescind | To officially cancel or revoke a law or decision. | Latin rescindere, "to cut off".
+sanguine | Optimistic, especially in a difficult situation. | Latin sanguineus, from sanguis, "blood", linked to a cheerful temperament.
+sobriquet | A nickname. | French, of uncertain origin.
+spontaneous | Done on impulse, without planning. | Latin sponte, "of one's own accord".
+subterfuge | Deceit used to achieve a goal. | Latin subterfugere, "to escape secretly".
+surreptitious | Done secretly, to avoid being noticed. | Latin surrepticius, "stolen" or "furtive".
+tenacious | Holding firmly; not giving up. | Latin tenax, from tenere, "to hold".
+trepidation | Fear or anxiety about what may happen. | Latin trepidare, "to tremble".
+vociferous | Loud and forceful in expressing opinions. | Latin vox ("voice") + ferre ("to carry").
+voracious | Wanting or devouring great quantities, as of food or books. | Latin vorare, "to devour".
+whimsical | Playfully quaint or fanciful. | From "whimsy", of uncertain origin.
+zealous | Full of energy and enthusiasm for a cause. | Greek zēlos, "fervour".
+euphoria | A feeling of intense happiness. | Greek euphoria, "power of bearing easily": eu ("well") + pherein ("to bear").
+
+=== CHAMPION (100 words) ===
+appoggiatura | A musical grace note that leans on the following note, delaying it. | Italian appoggiare, "to lean".
+bouillabaisse | A rich fish stew from Provence. | Provençal bouiabaisso: bouia ("boil") + abaissa ("reduce" or "lower").
+chiaroscuro | The dramatic use of light and shadow in a painting. | Italian chiaro ("clear") + oscuro ("dark").
+cnidarian | A stinging aquatic animal such as a jellyfish or a coral. | Greek knidē, "nettle".
+dysprosium | A silvery rare-earth metallic element with atomic number 66. | Greek dysprositos, "hard to get at", because it was so difficult to isolate.
+autochthonous | Native to the place where found; indigenous. | Greek autokhthōn, "sprung from the land itself".
+weltschmerz | Mental depression caused by comparing the real world with an ideal one. | German Welt ("world") + Schmerz ("pain").
+schadenfreude | Pleasure derived from another person's misfortune. | German Schaden ("harm") + Freude ("joy").
+logorrhea | Excessive and often incoherent talkativeness. | Greek logos ("word") + rhoia ("flow").
+prestidigitation | Magic tricks performed with quick, skilful hands; sleight of hand. | French preste ("nimble") + Latin digitus ("finger").
+xylophagous | Feeding on wood, as some insects do. | Greek xylon ("wood") + phagein ("to eat").
+lagniappe | A small gift given to a customer with a purchase; a bonus. | Louisiana French, from Spanish la ñapa, from Quechua yapa, "something added".
+sphygmomanometer | An instrument for measuring blood pressure. | Greek sphygmos ("pulse") + manometer ("pressure gauge").
+pulchritude | Physical beauty. | Latin pulchritudo, from pulcher, "beautiful".
+syzygy | The alignment of three celestial bodies, such as the sun, moon and earth. | Greek syzygia, "a yoking together".
+myrmidon | A faithful follower who carries out orders without question. | Greek Myrmidones, the warriors who followed Achilles to Troy.
+apotheosis | The highest point in development; elevation to the rank of a god. | Greek apo- ("away") + theos ("god"): "to make a god of".
+bildungsroman | A novel about a young person's growth and education. | German Bildung ("formation") + Roman ("novel").
+rhododendron | A flowering evergreen shrub with large clusters of blooms. | Greek rhodon ("rose") + dendron ("tree").
+zeitgeist | The defining spirit or mood of a particular era. | German Zeit ("time") + Geist ("spirit").
+fuchsia | A garden shrub with drooping purplish-pink flowers; also a vivid purple-red colour. | Named after Leonhart Fuchs, a 16th-century German botanist.
+ptarmigan | A grouse of cold regions whose plumage turns white in winter. | Scottish Gaelic tarmachan; the silent p was added by mistaken analogy with Greek words.
+maelstrom | A powerful whirlpool; a scene of violent confusion. | Dutch malen ("to grind") + stroom ("stream").
+quinquennial | Occurring every five years or lasting five years. | Latin quinque ("five") + annus ("year").
+haruspex | A priest of ancient Rome who predicted the future by inspecting animal entrails. | Latin haru- ("entrails") + specere ("to look at").
+sesquipedalian | Given to using long words; long-winded. | Latin sesqui- ("one and a half") + pes, pedis ("foot"): "a foot and a half long".
+vermicelli | Very thin strands of pasta. | Italian, "little worms", from Latin vermis.
+poinsettia | A Christmas plant with bright red leaves. | Named after Joel Roberts Poinsett, the first US ambassador to Mexico.
+scherzando | A musical direction meaning "playfully". | Italian, from scherzo, "a joke".
+anemone | A delicate flowering plant; also a sea creature with stinging tentacles. | Greek anemōnē, traditionally "windflower", from anemos, "wind".
+cabriolet | A convertible car, or a light two-wheeled carriage. | French cabrioler, "to leap like a goat", from the carriage's bouncy ride.
+vichyssoise | A thick cold soup of potatoes and leeks. | French, "of Vichy", the spa town in central France.
+chrysalis | The hard-cased stage of a butterfly between caterpillar and adult. | Greek khrysallis, from khrysos, "gold", after the golden sheen of some pupae.
+dachshund | A small dog with a long body and short legs. | German Dachs ("badger") + Hund ("dog").
+ineluctable | Impossible to avoid; inescapable. | Latin ineluctabilis, "not to be struggled out of".
+lachrymose | Tearful, or tending to cry readily. | Latin lacrimosus, from lacrima, "tear".
+pococurante | Indifferent; nonchalant. | Italian poco ("little") + curante ("caring").
+tintinnabulation | The ringing or jingling sound of bells. | Latin tintinnabulum, "a bell", imitating its sound.
+eucalyptus | An Australian tree whose leaves koalas eat. | Greek eu ("well") + kalyptos ("covered"), after the cap covering its flower bud.
+amanuensis | A person employed to take dictation or copy manuscripts. | Latin a manu ("from the hand") + -ensis ("belonging to").
+abecedarian | Relating to the alphabet; also, a beginner. | Latin abecedarium, formed from the first letters A, B, C, D.
+anthropomorphic | Having human form or qualities attributed to a non-human thing. | Greek anthrōpos ("human") + morphē ("form").
+bacchanalian | Characterised by wild, drunken revelry. | Latin Bacchanalia, the festival of Bacchus, the Roman god of wine.
+catachresis | The misuse of a word, often deliberately for effect. | Greek katachrēsis, "misuse".
+chicanery | Trickery used to achieve a political or legal purpose. | French chicaner, "to quibble".
+conflagration | A large and destructive fire. | Latin conflagrare, "to burn up".
+defenestration | The act of throwing someone out of a window. | Latin de ("out of") + fenestra ("window").
+deleterious | Causing harm or damage. | Greek dēlētērios, "harmful".
+diaspora | The scattering of a people away from their homeland. | Greek diaspora, "scattering", from speirein, "to sow".
+ecclesiastical | Relating to the Christian Church or its clergy. | Greek ekklēsia, "assembly".
+effervescent | Giving off bubbles; or vivacious and enthusiastic. | Latin effervescere, "to boil up".
+epistolary | Relating to letters, or written in the form of letters. | Greek epistolē, "letter".
+equanimity | Calmness of mind under pressure. | Latin aequus ("even") + animus ("mind").
+gesticulate | To use dramatic gestures instead of or while speaking. | Latin gesticulari, "to mimic".
+grandiloquent | Pompous or extravagant in language. | Latin grandis ("great") + loqui ("to speak").
+heliotrope | A plant whose flowers turn to follow the sun; also a purple shade. | Greek hēlios ("sun") + trepein ("to turn").
+hippopotamus | A huge African mammal that spends much of its day in rivers. | Greek hippos ("horse") + potamos ("river").
+imbroglio | A confusing and embarrassing situation. | Italian imbrogliare, "to tangle".
+inchoate | Only just begun and so not fully formed. | Latin inchoare, "to begin".
+inimitable | So good or unusual as to be impossible to copy. | Latin in- ("not") + imitari ("to copy").
+juggernaut | A huge, overwhelming and unstoppable force. | Hindi Jagannath, "lord of the world", a Hindu deity whose huge chariot was said to crush devotees.
+kleptomania | A compulsive urge to steal. | Greek kleptēs ("thief") + mania ("madness").
+metamorphosis | A complete change of form, as a caterpillar becoming a butterfly. | Greek meta ("change") + morphē ("form").
+nebulous | Vague and unclear; hazy. | Latin nebula, "mist" or "cloud".
+nomenclature | A system of names used in a particular science or art. | Latin nomen ("name") + calare ("to call").
+obstreperous | Noisy and difficult to control. | Latin obstrepere, "to make a noise against".
+oscillate | To swing back and forth at a regular speed. | Latin oscillare, from oscillum, "a swing".
+paleontology | The scientific study of fossils and ancient life. | Greek palaios ("ancient") + ont- ("being") + logia ("study").
+pandemonium | Wild and noisy disorder. | Coined by Milton for the capital of Hell: Greek pan ("all") + daimōn ("demon").
+parsimonious | Extremely unwilling to spend money. | Latin parsimonia, "sparing".
+peripatetic | Travelling from place to place. | Greek peripatein, "to walk about", after Aristotle's habit of teaching while walking.
+phlegmatic | Calm and unemotional in temperament. | Greek phlegma, one of the four bodily humours thought to make people sluggish.
+plenipotentiary | A diplomat given full power to act for his or her government. | Latin plenus ("full") + potens ("powerful").
+propitious | Giving or indicating a good chance of success. | Latin propitius, "favourable".
+pterodactyl | An extinct flying reptile with a leathery wing. | Greek pteron ("wing") + daktylos ("finger").
+pyrrhic | Describing a victory won at such cost that it is almost a defeat. | From Pyrrhus, king of Epirus, who suffered huge losses defeating the Romans.
+quiescent | In a state of inactivity or dormancy. | Latin quiescere, "to rest".
+quotidian | Of or occurring every day; ordinary. | Latin quotidianus, from quotidie, "daily".
+rambunctious | Uncontrollably exuberant and boisterous. | Probably an American alteration of "rumbustious".
+sacrosanct | Too important or holy to be interfered with. | Latin sacro sanctus, "made holy by sacred rites".
+salubrious | Health-giving; pleasant and clean. | Latin salubris, from salus, "health".
+sardonic | Grimly mocking or cynical. | Greek sardonios, linked to a Sardinian plant said to twist the face of those who ate it.
+somnambulist | A person who walks about while asleep. | Latin somnus ("sleep") + ambulare ("to walk").
+soporific | Tending to induce drowsiness or sleep. | Latin sopor ("deep sleep") + facere ("to make").
+stalactite | An icicle-shaped mineral deposit hanging from a cave roof. | Greek stalaktos, "dripping".
+stentorian | Extremely loud and powerful in sound. | Stentor, the herald in Homer's Iliad whose voice was as loud as fifty men.
+supercilious | Behaving as if one were superior to others. | Latin supercilium, "eyebrow", raised in disdain.
+surfeit | An excessive amount of something. | Old French surfaire, "to overdo".
+tergiversate | To make evasive or ambiguous statements; to change sides. | Latin tergum ("back") + versare ("to turn").
+truculent | Eager or quick to argue or fight. | Latin trux, "fierce".
+umbrage | Offence or annoyance. | Latin umbra, "shade"; it first meant a shadow, then suspicion.
+verisimilitude | The appearance of being true or real. | Latin verus ("true") + similis ("like").
+vituperative | Bitter and abusive in language. | Latin vituperare, "to blame".
+xenophobia | Dislike of or prejudice against people from other countries. | Greek xenos ("stranger") + phobos ("fear").
+zephyr | A soft, gentle breeze. | Greek Zephyros, the west wind.
+arrhythmia | An irregularity in the rhythm of the heartbeat. | Greek a- ("without") + rhythmos ("rhythm").
+cantankerous | Bad-tempered, argumentative and uncooperative. | Origin uncertain; first recorded in the 18th century.
+fricassee | A dish of meat pieces stewed in a white sauce. | French fricassée, from fricasser, "to cut up and stew".
+gubernatorial | Relating to a governor. | Latin gubernator, "helmsman".
+oxymoron | A phrase that combines contradictory terms, such as "deafening silence". | Greek oxys ("sharp") + mōros ("foolish").
