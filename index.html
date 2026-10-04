@@ -14,13 +14,18 @@
     --gold: #ffd76a; --good: #3ddc97; --bad: #ff5b7f;
   }
   * { box-sizing: border-box; }
-  html { color-scheme: dark; background: #0b0220; }
+  html { color-scheme: dark; background-color: #0b0220; }
   html, body { margin: 0; min-height: 100%; }
   body {
     font-family: "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
     color: var(--text);
-    background: radial-gradient(ellipse at 50% 20%, var(--bg1), var(--bg2) 70%) fixed;
+    background-color: #0b0220;
     min-height: 100vh;
+  }
+  /* dark purple backdrop pinned behind everything (works on phones too) */
+  body::before {
+    content: ""; position: fixed; inset: 0; z-index: -1;
+    background: radial-gradient(ellipse at 50% 20%, var(--bg1), var(--bg2) 70%), #0b0220;
   }
   h1, h2, h3 { margin: 0; }
   .wrap { max-width: 1000px; margin: 0 auto; padding: 20px 16px 40px; }
@@ -45,7 +50,10 @@
     background: radial-gradient(circle, #6b2fc7, #2a0b5e);
     box-shadow: 0 0 30px var(--edge-soft); font-size: 46px;
   }
-  .logo h1 { font-size: clamp(28px, 6vw, 46px); letter-spacing: .06em; text-transform: uppercase; }
+  .logo h1 {
+    font-size: clamp(32px, 7vw, 56px); font-weight: 900; letter-spacing: .08em; text-transform: uppercase;
+    color: #ffffff; text-shadow: 0 0 18px rgba(183, 140, 255, .9), 0 2px 0 #5b21b6, 0 4px 14px rgba(0, 0, 0, .6);
+  }
   .logo p { color: var(--muted); margin: 6px 0 0; }
   .card { background: var(--panel); border: 1px solid var(--edge-soft); border-radius: 18px; padding: 20px; backdrop-filter: blur(6px); }
   .name-row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-bottom: 18px; }
@@ -730,6 +738,7 @@ WORDS.champion.push(
     "ove pal par pat ped per pho phy pla pol pop por pos pra pre pri pro psy pub qua rad rea rec red ref reg rel rem rep res ret rev rhe sac sal san sch sci sec sem sen ser sim " +
     "sin soc sol som spe sta ste sto str sub sup sur sym syn tec tel ten ter the thr tra tri tro ult und uni unr urb vac val var ven ver vic vir vis voc wat whi wor zoo").split(" ");
   const BAD_WORD = /fuck|shit|cunt|bitch|whore|slut|nigg|fagg|pussy|penis|vagin|rapist|porn|piss|erotic|genital|testic|semen|orgasm|coitus|incest|fellat|masturb|prostitut|bastard|nude|naked|nazi|sodom|lesbian|homosex|trans?sex|urin|feces|faec|excrem|sperm|ovary|uterus|sexual|sexy/;
+  const NAME_DEF = /\b(surname|given name|first name|place name|patronymic|toponymic|habitational|census-designated|civil parish|unincorporated|municipality|borough|hamlet|suburb|capital of|county seat|a city in|a town in|a village in|a river in|an island in|a region of|a district of|a province of|a state of|a commune|a locality|trademark|brand name|company|dynasty|clan|tribe|ethnic)\b|^(a |an |the )?(male|female|unisex|city|town|village|river|county|state|country|province|district|island|lake|mountain|region|community|hamlet|neighbou?rhood|capital)\b/i;
   const BAD_DEF = /\bsex|vulgar|offensive|derogatory|slur\b|genital|penis|vagina|erotic|\brape|prostitut|masturbat|feces|excrement|urinat|\banus|buttock|ethnic group|racial/i;
   const REJECT_DEF = /^(plural|third-person|present participle|past |simple past|alternative|obsolete|archaic|misspelling|abbreviation|initialism|acronym|inflection|comparative|superlative|eye dialect|nonstandard|synonym of|variant|form of|ellipsis|clipping|short for|contraction|diminutive|feminine|masculine|gerund|participle|dated form)/i;
   const REJECT_LABEL = /archaic|obsolete|rare|dated|slang|vulgar|offensive|derogatory|dialect|Scotland|Britain|Ireland|nonstandard|informal|colloquial|historical|figuratively/i;
@@ -743,7 +752,7 @@ WORDS.champion.push(
       const labels = (text.match(/^(\s*\([^)]*\)\s*)+/) || [""])[0];
       if (REJECT_LABEL.test(labels)) continue;
       let d = text.slice(labels.length).trim();
-      if (d.length < 12 || REJECT_DEF.test(d) || BAD_DEF.test(d)) continue;
+      if (d.length < 12 || REJECT_DEF.test(d) || BAD_DEF.test(d) || NAME_DEF.test(d)) continue;
       if (d.length > 170) d = d.slice(0, 167).replace(/\s+\S*$/, "") + "…";
       return d.charAt(0).toUpperCase() + d.slice(1);
     }
@@ -781,7 +790,13 @@ WORDS.champion.push(
   let refilling = null;
   function refill() {
     if (refilling) return refilling;
-    const picks = shuffle(PREFIXES).slice(0, 4);
+    // one search per different starting letter, so the live pool covers the whole alphabet
+    const picks = [], firstLetters = new Set();
+    for (const p of shuffle(PREFIXES)) {
+      if (firstLetters.has(p[0])) continue;
+      firstLetters.add(p[0]); picks.push(p);
+      if (picks.length >= 8) break;
+    }
     refilling = Promise.all(picks.map(p => fetchJSON(`https://api.datamuse.com/words?sp=${p}*&md=fd&max=1000`, 6000)))
       .then(lists => { for (const item of lists.flat()) addDyn(item); })
       .catch(() => {})
@@ -891,7 +906,7 @@ WORDS.champion.push(
     await Promise.race([ensureDyn(mode), sleep(8000)]);
     starting = false;
     $("startErr").textContent = "";
-    G = { mode, name: nm, score: 0, correct: 0, current: null, deadline: 0, locked: false,
+    G = { mode, name: nm, score: 0, correct: 0, current: null, deadline: 0, locked: false, recent: [],
           life: { def: true, fl: true, len: true } };
     $("gMode").textContent = MODES[mode].label;
     $("gName").textContent = nm;
@@ -909,7 +924,18 @@ WORDS.champion.push(
     if (!local.length && !dyn.length) return null;
     const useDyn = dyn.length && (!local.length || Math.random() < 0.7);
     const pool = useDyn ? dyn : local;
-    return pool[Math.floor(Math.random() * pool.length)];
+    // Pick a letter first (avoiding the last few starting letters), then a word with that letter,
+    // so the words jump all over the alphabet instead of clustering.
+    const recent = G.recent || [];
+    const byLetter = {};
+    for (const e of pool) (byLetter[e.word[0]] = byLetter[e.word[0]] || []).push(e);
+    let letters = Object.keys(byLetter);
+    const fresh = letters.filter(l => !recent.includes(l));
+    if (fresh.length) letters = fresh;
+    const letter = letters[Math.floor(Math.random() * letters.length)];
+    const group = byLetter[letter];
+    G.recent = [...recent, letter].slice(-6);
+    return group[Math.floor(Math.random() * group.length)];
   }
 
   async function nextWord() {
